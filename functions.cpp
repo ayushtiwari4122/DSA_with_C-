@@ -22,3 +22,5 @@ int main() {
     cout<< "min =" << min(14.52,145.524) << endl;
     
 }
+
+// functions to be continue 
